@@ -12,7 +12,7 @@ In parallel, I'm a **multi-business founder** building products and services acr
 
 - **Connected Spaces** → SaaS CRM + operational platform for home-automation companies  
 - **Modal AV** → AV consultancy & smart-home systems  
-- **Jumping Stars** → Childcare operations & automation systems  
+- **Jumping Stars** → Childcare booking system  
 
 I bring together **software**, **automation**, and **physical systems engineering** to create seamless, elegant, end-to-end solutions.
 
