@@ -10,15 +10,15 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer** building modern applications across **Next.js, Supabase, SwiftUI, n8n, and cloud-native tooling** — with a strong focus on **real-time data, multi-tenant security, automated workflows, and IoT/AV integrations**.
+I'm a **full-stack developer** building modern, scalable applications with **Next.js, Supabase, SwiftUI, n8n, and cloud-native tooling** — specialising in **real-time systems, multi-tenant security, workflow automation, and IoT/AV integrations**.
 
 Alongside software development, I'm a **multi-business founder** leading:
 
 - 🔹 **Connected Spaces** — A SaaS CRM & operations platform for home-automation companies  
-- 🔹 **Modal AV** — A high-end AV consultancy & smart-home system designer
-- 🔹 **Dropup Studio** - A deveveloping studio building apps and website
+- 🔹 **Modal AV** — A high-end AV consultancy & smart-home systems designer  
+- 🔹 **Dropup Studio** — A development studio creating apps, digital experiences, and automation solutions  
 
-I combine **software**, **automation**, and **physical systems engineering** to build elegant, scalable, real-world solutions.
+I bring together **software engineering**, **automation**, and **physical systems** to build elegant, powerful tools that solve real-world problems.
 
 ---
 
@@ -54,11 +54,14 @@ I combine **software**, **automation**, and **physical systems engineering** to 
 
 ### 🔹 **Connected Spaces**  
 A full SaaS platform for the home-automation industry:  
-multi-tenant CRM, projects, inventory, maintenance workflows, RLS security, encrypted vault, automation engine.
+multi-tenant CRM, projects, inventory, maintenance workflows, RLS-based security, encrypted vault, and automation engine.
 
 ### 🔹 **Modal AV**  
 A system-builder for high-end smart homes:  
-cinema design, lighting, networking, commissioning tools, automation workflows.
+cinema design, lighting control, networking, commissioning tools, and AV-driven automation workflows.
+
+### 🔹 **Dropup Studio**  
+A design & development studio delivering apps, websites, and automation solutions for brands, creators, and businesses.
 
 ---
 
@@ -78,13 +81,13 @@ cinema design, lighting, networking, commissioning tools, automation workflows.
 ## 🌐 Connect With My Work
 
 - 🔗 **Modal AV** — https://modalav.co.uk  
-- 🔗 **Dropup Studio** - https://dropup.studio 
+- 🔗 **Dropup Studio** — https://dropup.studio  
 - 🔗 **Connected Spaces** — *coming soon*  
 
 ---
 
 ### ⚡ Philosophy  
-I build systems that merge **software, automation, and physical world experience** — creating seamless, long-lasting, elegant solutions.
+I build systems that merge **software, automation, and real-world experiences** — creating seamless, powerful, long-lasting solutions.
 
-Always open to interesting collaborations.  
-Let’s build something brilliant. 🚀
+Always open to meaningful collaborations.  
+**Let’s build something brilliant. 🚀**
