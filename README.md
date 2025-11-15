@@ -3,7 +3,7 @@
   <img src="./logo.svg" alt="Full-Stack & Automation Logo" width="520" />
 </p>
 
-<h1 align="center">Hi, I'm Diana — Full-Stack Developer & Automation Engineer</h1>
+<h1 align="center">Hi, I'm Costa — Full-Stack Developer & Automation Engineer</h1>
 <h3 align="center">Next.js • Supabase • SwiftUI • IoT/AV Automation • Multi-Business Founder</h3>
 
 ---
@@ -15,8 +15,8 @@ I'm a **full-stack developer** building modern applications across **Next.js, Su
 Alongside software development, I'm a **multi-business founder** leading:
 
 - 🔹 **Connected Spaces** — A SaaS CRM & operations platform for home-automation companies  
-- 🔹 **Modal AV** — A high-end AV consultancy & smart-home system designer  
-- 🔹 **Jumping Stars** — An innovative childcare & automation-focused creche operator  
+- 🔹 **Modal AV** — A high-end AV consultancy & smart-home system designer
+- 🔹 **Dropup Studio** - A deveveloping studio building apps and website
 
 I combine **software**, **automation**, and **physical systems engineering** to build elegant, scalable, real-world solutions.
 
@@ -78,7 +78,7 @@ cinema design, lighting, networking, commissioning tools, automation workflows.
 ## 🌐 Connect With My Work
 
 - 🔗 **Modal AV** — https://modalav.co.uk  
-- 🔗 **Jumping Stars** — https://jumpingstars.co.uk  
+- 🔗 **Dropup Studio** - https://dropup.studio 
 - 🔗 **Connected Spaces** — *coming soon*  
 
 ---
